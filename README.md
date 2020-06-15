@@ -1,5 +1,5 @@
 # Pyco
-Manage command for automation process of the project
+Manage commands for automation process of the project
 
 ## Configuration
 Create a file in the root directory of the project and add any custom command to trigger.
@@ -16,3 +16,8 @@ Create a file in the root directory of the project and add any custom command to
   ]
 }
 ```
+
+
+## License
+
+MIT
